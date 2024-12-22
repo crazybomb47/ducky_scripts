@@ -1,0 +1,13 @@
+REM VERY simple script for lols.
+
+REM Made by crazybomb47
+
+REM Rickroll (No ads)
+
+
+DEFAULT DELAY 700
+ALT F4
+CTRL t
+STRING t.ly/E18NJ
+ENTER
+F11
