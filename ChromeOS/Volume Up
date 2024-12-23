@@ -1,0 +1,18 @@
+REM Simple script to turn up volume to max on ChromeOS
+
+REM Good to use in different scripts and helps learn of different cmds
+
+REM Made by crazybomb47
+
+DELAY 500
+ALT L
+DELAY 400
+SHIFT TAB
+DELAY 300
+ENTER
+TAB
+REPEAT 9
+DELAY 300
+RIGHT
+REPEAT 9
+ESC
