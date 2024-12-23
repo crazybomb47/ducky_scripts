@@ -1,0 +1,21 @@
+REM Does what the name says, mostly to learn about using tab and stuff.
+
+REM Replace link with your channel or support me!
+
+REM Made By crazybomb47
+
+
+DELAY 800
+CTRL t
+DELAY 500
+STRING youtube.com/@crazybomb47?sub_confirmation=1
+DELAY 200
+ENTER
+DELAY 500
+TAB
+DELAY 400
+TAB
+DELAY 400
+ENTER
+DELAY 200
+CTRL w
