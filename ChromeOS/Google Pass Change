@@ -10,7 +10,11 @@ DEFAULT_DELAY 1000
 ALT F4
 CTRL t
 STRING myaccount.google.com/signinoptions/password
+DELAY 300
+ENTER
+DELAY 1000
 F11
+DELAY 800
 TAB
 REPEAT 4
 ENTER
