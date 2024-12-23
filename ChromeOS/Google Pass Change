@@ -2,7 +2,7 @@ REM Educational purposes ONLY!!!
 
 REM Simple script that changes users google acc password
 
-REM Change where it says new password here with the password you want it to be, make sure they are the exact same for both.
+REM The reason it goes to the website than closes it and reopens it is because if you already clicked forgot password it would work but if 
 
 REM Made by crazybomb47
 
