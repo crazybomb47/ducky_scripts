@@ -7,6 +7,4 @@ Use these scripts for good, DONT BE A SKID!!!
 
 Made by crazybomb47
 
-Youtube - Youtube.com/@crazybomb47
-
-Email - j6hqqq@gmail.com
+Youtube - Youtube.com/@763cb
