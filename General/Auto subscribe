@@ -8,7 +8,7 @@ REM Made By crazybomb47
 DELAY 800
 CTRL t
 DELAY 500
-STRING youtube.com/@crazybomb47?sub_confirmation=1
+STRING youtube.com/@763cb?sub_confirmation=1
 DELAY 200
 ENTER
 DELAY 500
